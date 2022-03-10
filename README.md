@@ -1,4 +1,6 @@
 # Assignment-2-Data-Bias
+*For privacy, I deleted my API key
+ 
  This project is to use the Perspective API client to rate the toxicity of each comment and then use python code to analyze the details of the data in the form of tables and charts. Icons are plotted to roughly estimate the threshold of a sub-label as well as to analyze this model for bias and misclassification. 
    
   I think the model fails to recognize Old English (Shakespearean period) (Knave 0.074) as well as when using some uncommon swear words/expletive substitutes (Balderdash! 0.10).
